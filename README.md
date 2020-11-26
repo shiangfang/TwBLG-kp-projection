@@ -13,6 +13,8 @@ The bilayer graphene atomic model for inter-layer coupling terms:
 "Electronic structure theory of weakly interacting bilayers"
 Shiang Fang and Efthimios Kaxiras
 Phys. Rev. B 93, 235153 (2016)
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.235153
+
 
 
 
